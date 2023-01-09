@@ -18,12 +18,12 @@ function Home() {
               Hi, says Iris
             </h1>
             <p className="description">
-              Lorem ipsum pengembang web, fotograper, desainer
-              antarmuka pengguna, dan penulis.
+              Lorem ipsum pengembang web, fotograper, desainer antarmuka
+              pengguna, dan penulis.
             </p>
 
             <Link href="/contact" className="cta">
-              Kontak Saya
+              Iris Bromley
             </Link>
           </div>
 
